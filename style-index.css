@@ -1,0 +1,49 @@
+p {
+    text-align: center;
+}
+
+.titulo-principal {
+    background: green;
+    text-align: center;
+    padding: 35px;
+}
+
+strong em {
+    color: red;
+}
+
+.titulo{
+    text-align: center;
+}
+
+#feed {
+    font-size: 22px;
+}
+
+#destaque {
+    width: 100%;
+}
+
+.principal{
+    background: green;
+    padding: 35px;
+}
+
+.diferancial{
+    background: wheat;
+}
+
+.lista-diferancial{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens {
+    font-size: 20px;
+    font-style: italic;
+    
+}
+
+
